@@ -85,7 +85,7 @@ img {
 /* PRICE GRID */
 
 .container2 {
-    width: 70%;
+    width: 65%;
     max-width: 1100px;
     margin: 0 auto;
     margin-top: 70px;
@@ -117,6 +117,7 @@ img {
 .choices {
     text-align: center;
     margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .prices {
@@ -134,3 +135,15 @@ img {
 .divider {
     margin-top: 30px;
 }
+
+.team-cont {
+    width: 100%;
+    border: 1px solid hsl(240deg 3.37% 82.55%);
+}
+
+.enterprise {
+    padding: 1rem;
+    margin-top: 0;
+    width: 70%;
+}
+

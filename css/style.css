@@ -157,6 +157,7 @@ img {
     margin-top: 70px;
 }
 
+/* INFO SECTION */
 .col-60 {
     width: 60%;
 }
@@ -178,3 +179,15 @@ img {
     padding: 10px;
     width: 50%;
 }
+
+.execute {
+    margin-top: 6rem;
+}
+
+.feature {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+

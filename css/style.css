@@ -68,7 +68,7 @@ img {
     margin-right: 60px;
     margin-top: 30px;
     margin-bottom: 30px;
-    text-align: center; 
+    text-align: center;
 }
 
 .title {
@@ -85,7 +85,7 @@ img {
 /* PRICE GRID */
 
 .container2 {
-    width: 60%;
+    width: 70%;
     max-width: 1100px;
     margin: 0 auto;
     margin-top: 50px;
@@ -107,4 +107,26 @@ img {
     margin-bottom: 30px;
     display: flex;
     gap: 3rem;
+}
+
+.bundle-info {
+    list-style: none;
+    margin-top: 30px;
+}
+
+.choices {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.prices {
+    margin-top: 30px;
+}
+
+.bundle-type {
+    margin-bottom: 20px;
+}
+
+.icon-text {
+    margin-bottom: 15px;
 }

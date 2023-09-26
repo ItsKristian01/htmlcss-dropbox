@@ -147,3 +147,34 @@ img {
     width: 70%;
 }
 
+/* PRICE GRID */
+
+/* PARTNER CONTACT */
+.partner-container {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+
+.col-60 {
+    width: 60%;
+}
+
+.col-40 {
+    width: 40%;
+    margin-top: 60px;
+}
+
+.text {
+    margin-left: 50px;
+    
+}
+
+.transparent-button {
+    border: 1px solid black;
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+}

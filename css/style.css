@@ -219,5 +219,16 @@ img {
 .team{
     margin-top: 150px;
     width: 50%;
+    margin-bottom: 50px;
+}
+
+/* ADVERTISING */
+
+.dropbox-bus {
+    width: 60%;
+    padding: 3rem;
+    margin-left: 200px;
+    color:hsl(336.4deg 84.76% 20.59%) ;
+    font-size: 30px;
 }
 

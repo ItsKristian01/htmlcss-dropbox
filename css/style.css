@@ -228,7 +228,24 @@ img {
 }
 
 /* ADVERTISING */
+.column {
+    width: calc(100% / 3);
+}
 
+.column2 {
+    width: calc(100% / 4);
+}
+
+.design {
+    width: 60%;
+}
+
+.g-box {
+    background-color: hsl(0deg 0% 96.08%);
+    padding: 2rem;
+}
+
+/* CTA */
 .dropbox-bus {
     width: 60%;
     padding: 3rem;
